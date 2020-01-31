@@ -7,7 +7,7 @@
 //
 
 #import "SAMKeychain.h"
-#import "SAMKeychainQuery.h"
+//#import "SAMKeychainQuery.h" flutter compatibility comment
 
 NSString *const kSAMKeychainErrorDomain = @"com.samsoffes.samkeychain";
 NSString *const kSAMKeychainAccountKey = @"acct";
